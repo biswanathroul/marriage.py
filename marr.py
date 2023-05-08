@@ -2,9 +2,6 @@ import math
 import random
 from matplotlib import pyplot
 
-# 'Array' is based on code taken from the demo file sortvisu.py from
-# the python source code, and is released under the python 2.6.2 license:
-# http://www.python.org/download/releases/2.6.2/license/
 class Array:
     def __init__(self, data=None):
         self.items = []
